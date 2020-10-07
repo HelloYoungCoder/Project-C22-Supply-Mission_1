@@ -1,4 +1,4 @@
-//PROJECT - 23: SUPPLY MISSION - 1
+//PROJECT - 22: SUPPLY MISSION - 1
 
 //Create Variables
 var helicopterIMG, helicopterSprite, packageSprite,packageIMG;
